@@ -16,7 +16,7 @@ CSV used: [population.csv](https://raw.githubusercontent.com/dakshtyagi0002/PROD
 
 ## 🖼️ Output Preview
 
-Bar chart is saved as: `top10_population_2022.png`
+Bar chart is saved as: `https://github.com/SHIVAMTIWARI-cloud/population-visualisation/blob/main/Screenshot%202025-07-17%20221703.png`
 
 ## 🛠️ Libraries Used
 
